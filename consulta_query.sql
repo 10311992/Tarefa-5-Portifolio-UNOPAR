@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------
->> b) Elabore o código para uma consulta SQL que exiba corretamente
+-- b) Elabore o código para uma consulta SQL que exiba corretamente
 -- os dados completos de uma matrícula, contendo nome do aluno, seu
 -- número de matrícula, o curso que está matriculado e demais 
 -- informações que houver.
