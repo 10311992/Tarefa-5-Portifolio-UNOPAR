@@ -83,4 +83,4 @@ ALTER TABLE MATRICULA
 ------------------------------------------------
 
 SET FOREIGN_KEY_CHECKS=1
-SET AUTOCOMMIT=1
+SET AUTO_INCREMENT=1
